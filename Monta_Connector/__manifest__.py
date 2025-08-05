@@ -2,7 +2,7 @@
     'name': 'Monta_Connector',
     'version': '1.0',
     'summary': 'Integrates Odoo v18 with Monta WMS',
-    'author': 'Ali Raza Jamil',
+    'author': 'Ali Hassan',
     'category': 'Inventory',
     'depends': ['sale_management', 'stock'],
     'data': [
